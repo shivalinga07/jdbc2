@@ -1,5 +1,7 @@
 Class ProgramEx{
 	public static void main(String[] args){
 	System.out.println("practice well");
+	System.out.println("updating from developer2 folder");
+	System.out.println("this program is to learn");
 	}
 	}
